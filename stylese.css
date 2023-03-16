@@ -1,0 +1,86 @@
+body{
+    background-image:url(images/begi\ 1.png)  ;
+    height: auto;
+    width: auto;
+    font-family: 'Laila', sans-serif;
+    
+    }
+    .rew{
+    margin-top: 53px;
+    margin-right: 667px;
+    margin-left: 667px;
+    color: aliceblue;
+    
+    
+    }
+    header{
+    height: 82px;
+    width: 483px;
+    background-color:#457FB1;
+    font-size: 32px;
+    border-radius: 10px;
+    margin-left: 479px;
+    
+    
+    }
+    .y{
+     display: flex;
+     justify-content: space-around;
+     padding-left: 10px;
+    }
+    a{
+    
+    text-decoration: none;
+    color:aliceblue
+    
+    }
+    a:hover{
+    color: aqua;
+    
+    }
+    
+    
+    .main{
+        height: auto;
+        width: 700px;
+        background-color: #457FB1;
+        margin-left: 70px;
+        margin-top: 10px;
+        border-radius: 10px;
+        padding: 20px;
+    
+    }
+    
+    footer{
+    height: 123px;
+    width: 100%;
+    background-color: #457FB1;
+    margin-top: 23px;
+    }
+    .images{
+    overflow: hidden;
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 10px;
+
+    border: #457FB1;
+    height: 70%;
+    width: 70%;
+    
+    
+
+
+
+    }
+    main{
+    display: flex;
+
+
+
+    }
+    .star{
+    position: absolute;
+    margin-right: 700px;
+
+    bottom:450px ;
+    }
